@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Welcome
-welcome to the typewriter life wiki
+welcome to the typewriter life wiki!!
