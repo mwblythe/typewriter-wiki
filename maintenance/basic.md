@@ -2,7 +2,7 @@
 <!-- SUBTITLE: General cleaning and upkeep -->
 
 # Basic Maintenance
-Until we have time to distill the best advice into a winning page, please see the links below.
+Until we distill the best advice into a winning page, please see the links below.
 
 # Links
 Other relevant pages from the web
