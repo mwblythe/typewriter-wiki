@@ -8,3 +8,5 @@
 * [TYPEWRITERS](https://groups.yahoo.com/neo/groups/TYPEWRITERS/info) Yahoo Group
 * [Typewriter Talk](http://typewriter.boardhost.com) Message Board
 
+# Reference
+* [Typewriter Database](http://typewriterdatabase.com) Definitive serial number reference plus user photo galleries
