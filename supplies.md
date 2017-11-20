@@ -11,3 +11,6 @@
 # Case Handles
 * [Brettun's Village](https://www.brettunsvillage.com/trunks/howto/parts/handles/)
 * [Hardware Elf](https://hardwareelf.com/catalog/luggage-repair/luggage-handles.aspx)
+
+# Decals
+* [TypewriterDecalShop](https://www.etsy.com/shop/TypewriterDecalShop) High quality replica decals
