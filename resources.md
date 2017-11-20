@@ -1,4 +1,4 @@
-<!-- TITLE: Resources -->
+<!-- TITLE: Online Resources -->
 <!-- SUBTITLE: Other Handy Typewriter Resources -->
 
 # Communities
