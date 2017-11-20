@@ -3,6 +3,6 @@
 
 # General
 # Maintenance
-* TWDB Out-of-Print Reference Archive Project
+* TWDB OOPRAP (Out-of-Print Reference Archive Project)
   * [PDF](https://sellfy.com/twdb)
   * [Printed+Bound](https://www.thebookpatch.com/BookStoreResults?search=Theodore+Munk&ddl=authors)
