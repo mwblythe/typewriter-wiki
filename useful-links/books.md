@@ -3,6 +3,7 @@
 
 # General
 * [The Typewriter Revolution](http://www.typewriterrevolution.com) by Richard Polt
+* [Typewriter: A Celebration of the Ultimate Writing Machine](http://amzn.com/1454920785) by Paul Robert & Peter Weil
 * [TYPEWRITERS: Iconic Machines from the Golden Age of Mechanical Writing](http://amzn.com/1452154880) by Anthony Casillo
 # Maintenance
 * TWDB OOPRAP (Out-of-Print Reference Archive Project)
