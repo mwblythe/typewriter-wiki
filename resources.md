@@ -10,4 +10,4 @@
 
 # Reference
 * [Typewriter Database](http://typewriterdatabase.com) Definitive serial number data, reference manuals, user submitted photo galleries
-* [3D Typewriter Parts](http://3dtypewriterparts.com)3D models for printing/replicating typewriter parts
+* [3D Typewriter Parts](http://3dtypewriterparts.com) 3D models for printing/replicating typewriter parts
