@@ -8,3 +8,6 @@
 * TWDB OOPRAP (Out-of-Print Reference Archive Project)
   * [PDF](https://sellfy.com/twdb)
   * [Printed+Bound](https://www.thebookpatch.com/BookStoreResults?search=Theodore+Munk&ddl=authors)
+
+# Fiction
+* [Uncommon Type: Some Stories](http://amzn.com/1101946156) by Tom Hanks
