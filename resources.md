@@ -1,9 +1,7 @@
 <!-- TITLE: Resources -->
 <!-- SUBTITLE: Other Handy Typewriter Resources -->
 
-# Other Resources
-
-## Communities
+# Communities
 
 * [Antique Typewriter Collectors](https://www.facebook.com/groups/TypewriterCollectors/) Facebook Group
 * [TYPEWRITERS](https://groups.yahoo.com/neo/groups/TYPEWRITERS/info) Yahoo Group
