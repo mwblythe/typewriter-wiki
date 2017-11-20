@@ -12,3 +12,11 @@
 * [Typewriter Database](http://typewriterdatabase.com) Definitive serial number data, reference manuals, user submitted photo galleries
 * [The Classic Typewriter Page](http://site.xavier.edu/polt/typewriters/) A rich resource from Richard Polt, a leader in the revolution
 * [3D Typewriter Parts](http://3dtypewriterparts.com) 3D models for printing/replicating typewriter parts
+
+# Blogs
+# Videos
+* [Phoenix Typewriter](https://www.youtube.com/channel/UCFVJOLMjdtEVCTNai3-1brg) Excellent repair videos
+* [Typewriter Justice](https://www.youtube.com/user/pilsurquell) Repairs, howto, etc.
+* [Typewriter Minutes](https://www.youtube.com/channel/UC3Q_s6UPVTbzpL4celoTCHg) Demos, reviews, etc.
+* [Typewriter Passion](https://www.youtube.com/channel/UC_kAro53TrE3s8Jc1JYLrYQ) Very nice demos and more
+* [Joe Van Cleave](https://www.youtube.com/user/JoeVCA) Typing assignments and info
