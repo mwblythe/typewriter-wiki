@@ -1,4 +1,4 @@
-<!-- TITLE: Typewriter Life Wiki -->
+<!-- TITLE: Wiki Home -->
 <!-- SUBTITLE: A community maintained typewriter wiki -->
 
 # Welcome
