@@ -8,6 +8,7 @@
 # Rubber
 * [JJ Short](http://www.jjshort.com/typewriter-platen-repair.php) Recovered platens and feed rollers
 * [Steve Dade](mailto:nailgnr@sbcglobal.net) Recovered platens, feed rollers, and new feet for select models
+* [TypewriterStuff](https://www.etsy.com/shop/TypewriterStuff) Replica feet for select models
 # Case Handles
 * [Brettun's Village](https://www.brettunsvillage.com/trunks/howto/parts/handles/)
 * [Hardware Elf](https://hardwareelf.com/catalog/luggage-repair/luggage-handles.aspx)
