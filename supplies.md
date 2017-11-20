@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Where to get typewriter supplies -->
 
 # Ribbons
-* [FJA Products Universal](http://amzn.com/B009JGXAHG)
+* [FJA Products Universal Ribbon](http://amzn.com/B009JGXAHG)
 * [LD Products Outlet](http://ebay.to/2zWOPzW) (fits Olympia and other European typewriters)
 * [Baco Ribbon](mailto:bacoribbon@sbcglobal.net) wide selection including bulk ribbon
 # Rubber
