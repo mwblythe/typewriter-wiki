@@ -1,5 +1,5 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: A community maintained typewriter wiki (contribute)[contribute] -->
 
 # Welcome
-welcome to the typewriter life wiki!!
+Welcome to the typewriter life wiki!
