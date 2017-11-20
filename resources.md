@@ -9,4 +9,4 @@
 * [Typewriter Talk](http://typewriter.boardhost.com) Message Board
 
 # Reference
-* [Typewriter Database](http://typewriterdatabase.com) Definitive serial number reference plus user photo galleries
+* [Typewriter Database](http://typewriterdatabase.com) Definitive serial number reference + user submitted photo galleries
