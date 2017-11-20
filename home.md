@@ -8,3 +8,4 @@ Typewriters have been around for over a century and may seem obsolete in the com
 
 # Useful Links
 * [Online Resources](/resources)
+* [Supplies](/supplies)
