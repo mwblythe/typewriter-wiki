@@ -19,6 +19,15 @@ Many collectors find that reviving typewriters is half (or more of) the fun. If 
 If you don't care about condition, just choose a budget and stick with it. Maybe you only want to display the typewriter, with no intention of using it. Look for cheap options with minimal scratches or paint loss that will shine up nicely. Maybe you're confident in your ability to get most any typewriter running again. Just shop for what interests you and see what happens. Adventure awaits.
 
 # Venue
-## Online
+## Local
 
-## In-Person
+
+## Online
+There are far more typewriters available online than locally. Online, you're drawing from your whole country or even the entire world. That's a LOT more typewriters to choose from! If you are looking for something specific, shopping online greatly increases your chance of finding it. Even if you're flexible on model, there's still more to choose from online. There are disadvantages, though.
+
+### Assessment
+
+It's difficult to assess the condition of a typewriter you find online, since most will be further than comfortable driving range. You have to rely on the seller's description and reputation. Pay careful attention to the photos and description. Look at the seller's ratings, if available, for happy customers who previously bought typewriters from them. Check the photos for a type sample, if you expect the machine to work on arrival. See if the listing includes a serial number, which you can check at [The Typewriter Database](http://typewriterdatabase.com). If you have questions, contact the seller to ask them before buying. Check out the site's dispute and refund policies, just in case things don't turn out well.
+
+### Shipping
+
