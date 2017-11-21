@@ -31,7 +31,7 @@ It's difficult to assess the condition of a typewriter you find online, since mo
 
 ### Shipping
 
-Typewriters are large and heavy. There's no avoiding a significant shipping cost, so factor this into your decision and budget. Some sellers build it into their price, but one way or another, you're paying for shipping. For a portable, expect $25 to $35 depending on distance within the US (2017 rates). Be suspicisous of costs far outside this range. Desktop typewriters are very risky and expensive to ship, so it's best to avoid buying these online unless it's a hard-to-find model that you have your heart set on.
+Typewriters are large and heavy. There's no avoiding a significant shipping cost, so factor this into your decision and budget. Some sellers build it into their price, but one way or another, you're paying for shipping. For a portable, expect $25 to $40 depending on distance within the US (2017 rates). Be suspicisous of costs far outside this range. Desktop typewriters are very risky and expensive to ship, so it's best to avoid buying these online unless it's a hard-to-find model that you have your heart set on.
 
 Safely packing a typewriter is an acquired skill. A very nice typewriter an be ruined in shipping due to an inexperienced seller and poor packing. If you are unsure the seller knows what they're doing, it's in your best interest to offer some advice. Feel free to send sellers a link to our [shipping tips](/today/shipping), and be wary of anybody who tells you it's too much to ask. Be sure the shipment will be insured for your full purchase price.
 
