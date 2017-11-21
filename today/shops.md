@@ -7,4 +7,4 @@ You can invest the time to learn how to repair it yourself, but maybe that's jus
 
 Richard Polt maintains the most current [list of shops](http://site.xavier.edu/polt/typewriters/tw-repair.html). Perhaps there is one near you.
 
-If not, find a [community](/useful-links/resources#community) or start [learning](/maintenance/basic).
+If not, find a [community](/useful-links/resources#communities) or start [learning](/maintenance/basic).
