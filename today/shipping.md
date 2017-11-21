@@ -16,7 +16,7 @@ Plastic grocery bags are never appropriate packing material!
 * Put the machine in caps/shift lock position
 * Stuff crumpled paper into the type basket, where the type bars are
 * Wrap the machine (or soft-sided case) with at least two layers of bubble wrap
-* Place it into an inner box that fits as closely as possible, filling void space with crumpled paper or packing peanuts
+* Place it into an inner box that fits as closely as possible, filling void space as well as possible
 * Choose an outer box at least 2" larger in every dimension
 * Place inner box into outer box, filling void space with crumpled paper or packing peanuts
 
