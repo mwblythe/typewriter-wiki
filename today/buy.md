@@ -5,6 +5,12 @@ For all practical purposes, typewriters are no longer made today. Sure, one [com
 
 What do you want?
 
-# Ready to Write
-# Fixer-Upper
-# Roll the Dice
+# Condition
+## Ready to Write
+No vintage typewriter is truly "ready to write" unless it's had some attention. While they are truly mechanical marvels, capable of functioning after a century or more, at a minimum they need to be cleaned. If you are looking for a typewriter that will work "out of the box", you need to be a little picky. If buying online, look for terms like "cleaned", "serviced", "refurbished", or "restored". While these terms have fuzzy definitions, they all at least indicate that some effort has been made to ensure functionality. You should be prepared to pay for that effort. If buying in person, be sure to test the machine before taking possession and handing over your money.
+## Fixer-Upper
+
+# Venue
+## Online
+
+## In-Person
