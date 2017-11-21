@@ -13,7 +13,7 @@ No vintage typewriter is truly "ready to write" unless it's had some attention. 
 
 The best deals are the "as is" typewriters, where the seller hasn't put any effort into the machine and is only interested in cashing out. Most of these will need some level of service in order to function properly. Try to assess the condition based on information provided, conversation with the seller, or hands on inspection. Don't buy a machine that is beyond your ability to fix or would bust your budget to pay for professional service.
 
-Many collectors find that reviving typewriters is half (or more of) the fun. If you want to learn how to service your own typewriters, buying a cheap machine that appeals to you is a great place to start. Then, join a [community](/useful-links#communities) or start [learning][/maintenance/basic].
+Many collectors find that reviving typewriters is half (or more of) the fun. If you want to learn how to service your own typewriters, buying a cheap machine that appeals to you is a great place to start. Then, join a [community](/useful-links#communities) or start [learning](/maintenance/basic).
 
 ## Roll the Dice
 If you don't care about condition, just choose a budget and stick with it. Maybe you only want to display the typewriter, with no intention of using it. Look for cheap options with minimal scratches or paint loss that will shine up nicely. Maybe you're confident in your ability to get most any typewriter running again. Just shop for what interests you and see what happens. Adventure awaits.
