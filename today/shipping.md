@@ -12,6 +12,8 @@ Plastic grocery bags are never appropriate packing material!
 * Choose a box at least 2" larger than the case in every dimension
 * Place case into box, filling void space with crumpled paper or packing peanuts
 # Desktop
+It's really best not to ship these, due to their size and weight. If you must, at a minimum, follow these tips.
+
 * Secure the carriage if possible, by activating the carriage lock or moving margins to the middle
 * Put the machine in caps/shift lock position
 * Stuff crumpled paper into the type basket, where the type bars are
