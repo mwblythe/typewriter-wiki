@@ -9,7 +9,7 @@ Typewriters have been around for over a century and may seem obsolete in the com
 # History
 # Today
 * [Buying a Typewriter](/today/buy)
-* [Online Communities](/useful-links/resources#communities)
+* [Online Communities](/today/community)
 * [Repair Shops](/today/shops)
 * [Type-Ins](/today/typein)
 # Maintenance
