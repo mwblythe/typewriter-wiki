@@ -20,7 +20,7 @@ If you don't care about condition, just choose a budget and stick with it. Maybe
 
 # Venue
 ## Local
-
+If you can find a typewriter you like locally, this is your best option. You won't have to pay for shipping, which can be risky and expensive, but you'll have a chance to try before you buy. Make sure you're comfortable with the meeting place, whether it be the seller's home or not. Avoid remote locations, abandoned warehouses, defunct mental hospitals, and the like. Bring a buddy if you can. Some police departments are offering secure, monitored meeting locations for online purchases. Ask you local officials if one is available.
 
 ## Online
 There are far more typewriters available online than locally. Online, you're drawing from your whole country or even the entire world. That's a LOT more typewriters to choose from! If you are looking for something specific, shopping online greatly increases your chance of finding it. Even if you're flexible on model, there's still more to choose from online. There are disadvantages, though.
