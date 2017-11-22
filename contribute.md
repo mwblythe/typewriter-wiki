@@ -19,3 +19,12 @@ Here's some light reading to get you going:
 * [Wiki.js reference](https://docs.requarks.io/wiki/user-guide/markdown-syntax) official reference for this wiki software (incomplete)
 * [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) a 3rd party Markdown reference
 * [Official specification](https://daringfireball.net/projects/markdown/basics)
+
+# Organization
+A wiki is a large living document, so content and organization will change over time. When you create a new page, the wiki will first ask you for a path:
+
+![Wiki New Page](/uploads/wiki/wiki-new-page.png "Wiki New Page")
+
+Any name that hasn't been used before will work. However, it does make things cleaner if you place your new page into a section. To do this, just start your page name with a path. For example: `/history/my-new-page`. Sections can also be nested to create subsections, such as `/maintenance/underwood/no5`. Existing pages can be moved to a new path later, so don't stress too much over your initial choice.
+
+The "All Pages" view uses these sections to automatically create a folder-based navigation. Any other links to your page will have to be created manually (where appropriate) on other wiki pages.
