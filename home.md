@@ -16,6 +16,7 @@ Typewriters have been around for over a century and may seem obsolete in the com
 * [Basic](/maintenance/basic)
 * [Hammond](/maintenance/hammond)
 * [Olivetti](/maintenance/olivetti)
+* [Royal](/maintenance/royal)
 # Useful Links
 * [Online Resources](/useful-links/resources)
 * [Supplies](/useful-links/supplies)
