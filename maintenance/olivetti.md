@@ -1,4 +1,4 @@
 <!-- TITLE: Olivetti -->
-<!-- SUBTITLE: A quick summary of Olivetti -->
+<!-- SUBTITLE: Maintenance tips for Olivetti models -->
 
-# Boo
+* [Studio 45](/maintenance/olivetti/studio45)
