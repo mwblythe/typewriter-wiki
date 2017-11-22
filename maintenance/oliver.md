@@ -18,3 +18,7 @@ This is likely one of the easiest machines for this operation. The spring barrel
 
 DONE! Test it out!
 
+![Hook](/uploads/oliver/hook.jpg "Hook")
+![Fork Loop](/uploads/oliver/fork-loop.jpg "Fork Loop")
+![Barrel](/uploads/oliver/barrel.jpg "Barrel")
+
