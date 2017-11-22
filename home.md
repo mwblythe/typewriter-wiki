@@ -12,6 +12,8 @@ Typewriters have been around for over a century and may seem obsolete in the com
 * [Online Communities](/today/community)
 * [Repair Shops](/today/shops)
 * [Type-Ins](/today/typein)
+
+# Models
 # Maintenance
 * [Basic](/maintenance/basic)
 * [Hammond](/maintenance/hammond)
