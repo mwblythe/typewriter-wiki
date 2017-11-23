@@ -1,5 +1,5 @@
 <!-- TITLE: Olympia -->
-<!-- SUBTITLE: A quick summary of Olympia -->
+<!-- SUBTITLE: Olympia and its models -->
 
 # SM Series
 For a detailed history of the SM series, please see this excellent "x over it" [article](http://xoverit.blogspot.com/2015/02/olympia-sm-series-part-1-1948-1964.html)
