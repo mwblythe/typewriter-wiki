@@ -21,8 +21,9 @@ Typewriters have been around for over a century and may seem obsolete in the com
 This is not a comprehensive list. Feel free to add more.
 *Please make a page for each manufacturer and list or link to models from there*
 
-* [Royal](/models/royal)
-* [Underwood](/models/underwood)
+* [Fox](/models/fox)
+* [Royal](/models/royal) (placeholder)
+* [Underwood](/models/underwood) (placeholder)
 
 # Maintenance
 * [Basic](/maintenance/basic)
