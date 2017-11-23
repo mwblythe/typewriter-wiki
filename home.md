@@ -11,6 +11,7 @@ Typewriters have been around for over a century and may seem obsolete in the com
 <div style="clear: right"></div>
 
 # History
+* [Books on Typewriter History]
 # Today
 * [Buying a Typewriter](/today/buy)
 * [Online Communities](/today/community)
