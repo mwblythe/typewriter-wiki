@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A community maintained typewriter wiki -->
 
 # Welcome
-<img src="/uploads/wiki/typewriter-life.jpg" width="300" alt="Typewriter Life" align="right" />
+<img src="/uploads/wiki/typewriter-life.jpg" width="200" alt="Typewriter Life" align="right" />
 
 Welcome to the typewriter life wiki!  Want to [contribute](contribute)?
 
