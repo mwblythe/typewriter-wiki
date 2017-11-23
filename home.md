@@ -31,6 +31,7 @@ This is not a comprehensive list. Feel free to add more.
 * [Hammond](/maintenance/hammond)
 * [Oliver](/maintenance/oliver)
 * [Olivetti](/maintenance/olivetti)
+* [Olympia](/maintenance/olympia)
 * [Royal](/maintenance/royal)
 * [Underwood](/maintenance/underwood)
 # Useful Links
