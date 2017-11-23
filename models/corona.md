@@ -1,6 +1,7 @@
 <!-- TITLE: Corona -->
 <!-- SUBTITLE: Add a quick summary of Corona --> 
-[Smith-Corona company history](/Corona/history)
+
+[Smith-Corona company history](/history/corona)
 # Models
 ### Manual Standards
 
