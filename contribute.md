@@ -38,3 +38,6 @@ The initial top-level categories are:
 * `/useful-links`
 
 These will change over time. Visit the wiki home page or poke through the "All Pages" link to see what's currently in use.
+
+# Images
+You can link to images hosted elsewhere or upload them directly to the wiki. If you get an error when uploading, your image is probably too large. Try resizing it so that it's under 1MB. If problems persist, please [contact us](mailto:info@typewriter.life).
