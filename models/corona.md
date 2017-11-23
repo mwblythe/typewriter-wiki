@@ -2,7 +2,9 @@
 <!-- SUBTITLE: Add a quick summary of Corona --> 
 [Smith-Corona company history](/Corona/history) (placeholder)
 # Models
-### Portables
+### Manual Standards
+
+### Manual Portables
 * [Clipper](/Corona/Clipper) (placeholder)
 * [Silent](/Corona/Silent) (placeholder)
 * [Standard](/Corona/Standard) (placeholder)
