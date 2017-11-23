@@ -1,6 +1,6 @@
 <!-- TITLE: Corona -->
 <!-- SUBTITLE: Add a quick summary of Corona --> 
-
+[Smith-Corona company history](/Corona/history) (placeholder)
 # Models
 ### Portables
 * [Clipper](/Corona/Clipper) (placeholder)
