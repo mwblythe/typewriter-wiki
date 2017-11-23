@@ -25,17 +25,17 @@ A wiki is a large living document, so content and organization will change over 
 
 ![Wiki New Page](/uploads/wiki/wiki-new-page.png "Wiki New Page")
 
-Any name that hasn't been used before will work. However, it does make things cleaner if you place your new page into a section. To do this, just start your page name with a path. For example: `/history/my-new-page`. Sections can also be nested to create subsections, such as `/maintenance/underwood/no5`. You can create a new section just by typing a new path here. Existing pages can be moved to a new path later, so don't stress too much over your initial choice.
+Any name that hasn't been used before will work. However, it does make things cleaner if you place your new page into a section. To do this, just start your page name with a path. For example: `history/my-new-page`. Sections can also be nested to create subsections, such as `maintenance/underwood/no5`. You can create a new section just by typing a new path here. Existing pages can be moved to a new path later, so don't stress too much over your initial choice.
 
 The "All Pages" view uses these sections to automatically create a folder-based navigation. Any other links to your page will have to be created manually (where appropriate) on other wiki pages.
 
 The initial top-level categories are:
 
-* `/history`
-* `/today`
-* `/models`
-* `/maintenance`
-* `/useful-links`
+* `history`
+* `today`
+* `models`
+* `maintenance`
+* `useful-links`
 
 These will change over time. Visit the wiki home page or poke through the "All Pages" link to see what's currently in use.
 
