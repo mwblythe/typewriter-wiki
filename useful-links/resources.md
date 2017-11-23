@@ -14,7 +14,7 @@
 * [3D Typewriter Parts](http://3dtypewriterparts.com) 3D models for printing/replicating typewriter parts
 
 # Blogs
-* [Welcome to the Typosphere](http://typosphere.blogspot.com)
+* [Welcome to the Typosphere](http://typosphere.blogspot.com) Announcements of interest to all typewriter lovers. The blogroll on the right provides links to dozens of blogs that discuss typewriters or are created with them. 
 # Videos
 * [Phoenix Typewriter](https://www.youtube.com/channel/UCFVJOLMjdtEVCTNai3-1brg) Excellent repair videos
 * [Typewriter Justice](https://www.youtube.com/user/pilsurquell) Repairs, howto, etc.
