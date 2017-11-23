@@ -3,11 +3,6 @@
 
 # The Fox Typewriter Company
 
-
-<Body>
-
--------- The Fox Typewriter Company --------
-
 “The greatest thing about Mr. Fox is his unwavering hope, faith, courage, and cheerfulness in the face of the most trying circumstances. No difficulty daunts him, and he always finds a way out.” 
 Fox Factory Employee, ca. 1908
 
@@ -52,5 +47,3 @@ Fox would not be so easily beaten, and on December 9th of that same year made an
 The damage had already been done, however, and an injured revenue stream coupled with a high cost of manufacture crippled the company. In May of 1921, Walter A. Papworth was appointed as Receiver and General Manager to comply with creditor demands [2]. An attempt by W. Bennington to purchase the enterprise for the production of the Bennington typewriter was unsuccessful, and in July of 1922 the company lowered its capitalization from $450,000 to just $45,000. At the same time, due to the company defaulting on interest payments, the creditors of the company began to call for action. The First National Bank of Chicago filed against the company on a $100,000 mortgage, followed quickly by the Shaw Association which foreclosed on another $100,000 mortgage due to its ownership of a large amount of bonds [1].
 
 Ultimately there was little that the Fox Typewriter Company could do against such overwhelming demands as its factory remained at a near standstill. An attempt was made by William Bennington [21] to secure the factory and assets for the amount of $300,000, but this deal fell through [22]. On September the 15th, 1923, the District Court ordered the sale by receiver of all assets and property [20]. By the end of 1922, the proud makers of the Fox typewriter were but a memory in the business world after 25 years, though their wonderful machines still lived on as beautiful reminders of the grand enterprise which was proudly located in Grand Rapids, Michigan.
-
-</body>
