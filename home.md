@@ -23,6 +23,7 @@ This is not a comprehensive list. Feel free to add more.
 
 * [Corona/Smith-Corona](/models/Corona)
 * [Fox](/models/fox)
+* [Olympia](/models/olympia)
 * [Royal](/models/royal) (placeholder)
 * [Underwood](/models/underwood) (placeholder)
 
