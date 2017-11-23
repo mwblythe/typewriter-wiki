@@ -3,8 +3,8 @@
 
 # Models
 ### Portables
-* Standard
-* Sterling
-* Silent
-* Clipper
-* [Please add more.]
+* [Clipper](/Corona/Clipper)
+* [Silent](/Corona/Silent)
+* [Standard](/Corona/Standard)
+* [Sterling](/Corona/Sterling)
+* //Please add more.
