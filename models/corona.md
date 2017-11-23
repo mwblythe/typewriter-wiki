@@ -1,4 +1,4 @@
 <!-- TITLE: Corona -->
-<!-- SUBTITLE: A quick summary of Corona --> Add summary text here.
+<!-- SUBTITLE: Add a quick summary of Corona --> 
 
 # Header
