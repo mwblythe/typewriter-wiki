@@ -15,6 +15,7 @@
 
 # Blogs
 * [Welcome to the Typosphere](http://typosphere.blogspot.com) Announcements of interest to all typewriter lovers. The blogroll on the right provides links to dozens of blogs that discuss typewriters or are created with them. 
+* [x over it](http://xoverit.blogspot.com) Detailed typewriter information and reviews, among other things
 # Videos
 * [Phoenix Typewriter](https://www.youtube.com/channel/UCFVJOLMjdtEVCTNai3-1brg) Excellent repair videos
 * [Typewriter Justice](https://www.youtube.com/user/pilsurquell) Repairs, howto, etc.
