@@ -17,7 +17,7 @@ Typewriters have been around for over a century and may seem obsolete in the com
 * [Repair Shops](/today/shops)
 * [Type-Ins](/today/typein)
 
-# Makes+Models
+# Models
 This is not a comprehensive list. Feel free to add more.
 *Please make a page for each manufacturer and list or link to models from there*
 
