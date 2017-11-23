@@ -29,6 +29,7 @@ This is not a comprehensive list. Feel free to add more.
 
 # Maintenance
 * [Basic](/maintenance/basic)
+* [Corona](/maintenance/corona)
 * [Hammond](/maintenance/hammond)
 * [Oliver](/maintenance/oliver)
 * [Olivetti](/maintenance/olivetti)
