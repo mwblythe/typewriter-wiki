@@ -6,3 +6,7 @@ A "type-in" is an in-person event where people get together to type, socialize, 
 A type-in calendar may be on the horizon here at Typewriter Life, but not yet.
 
 **Fun Fact:** An outdoor type-in is sometimes called a "type-out".
+
+A history of the first several years of type-ins can be found at http://type-in.org.
+
+More documentation of type-ins can be found on Welcome to the Typosphere: http://typosphere.blogspot.com/search/label/type-in
