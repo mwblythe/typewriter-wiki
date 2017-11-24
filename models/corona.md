@@ -6,6 +6,7 @@
 ### Manual Standards
 
 ### Manual Portables
+* [Corona 3](/corona/3)
 * [Clipper](/Corona/Clipper) (placeholder)
 * [Silent](/Corona/Silent) (placeholder)
 * [Standard](/Corona/Standard) (placeholder)
