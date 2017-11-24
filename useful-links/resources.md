@@ -18,9 +18,7 @@
 * [oz.Typewriter](http://oztypewriter.blogspot.com) A treasure trove of reviews, research, and typewriter stories
 * [x over it](http://xoverit.blogspot.com) Detailed typewriter information and reviews, among other things
 
-# Publications
-Periodical publications
-
+# Periodicals
 * [ETCetera](http://etconline.org) Published quarterly since 1987
 * [Typewriter Exchange / Typex](http://typexnews.com) Published quarterly since 1981
 # Videos
