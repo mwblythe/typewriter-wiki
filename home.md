@@ -35,6 +35,7 @@ This is not a comprehensive list. Feel free to add more.
 * [Olivetti](/maintenance/olivetti)
 * [Olympia](/maintenance/olympia)
 * [Royal](/maintenance/royal)
+* [Triumph](/maintenance/triumph)
 * [Underwood](/maintenance/underwood)
 # Useful Links
 * [Online Resources](/useful-links/resources)
