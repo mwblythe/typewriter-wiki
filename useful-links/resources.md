@@ -7,7 +7,7 @@
 * [Antique Typewriter Maintenance](https://www.facebook.com/groups/typewritermaintenance/) Facebook Group
 * [TYPEWRITERS](https://groups.yahoo.com/neo/groups/TYPEWRITERS/info) Yahoo Group
 * [Typewriter Talk](http://typewriter.boardhost.com) Message Board
-
+* [Reddit](https://www.reddit.com/r/typewriters/)
 # Reference
 * [Typewriter Database](http://typewriterdatabase.com) Definitive serial number data, reference manuals, user submitted photo galleries
 * [The Classic Typewriter Page](http://site.xavier.edu/polt/typewriters/) A rich resource from Richard Polt, a leader in the revolution
@@ -17,6 +17,12 @@
 * [Welcome to the Typosphere](http://typosphere.blogspot.com) Announcements of interest to all typewriter lovers. The blogroll on the right provides links to dozens of blogs that discuss typewriters or are created with them. 
 * [oz.Typewriter](http://oztypewriter.blogspot.com) A treasure trove of reviews, research, and typewriter stories
 * [x over it](http://xoverit.blogspot.com) Detailed typewriter information and reviews, among other things
+
+# Publications
+Periodical publications
+
+* [ETCetera](http://etconline.org) Published quarterly since 1987
+* [Typewriter Exchange / Typex](http://typexnews.com) Published quarterly since 1981
 # Videos
 * [Phoenix Typewriter](https://www.youtube.com/channel/UCFVJOLMjdtEVCTNai3-1brg) Excellent repair videos
 * [Typewriter Justice](https://www.youtube.com/user/pilsurquell) Repairs, howto, etc.
