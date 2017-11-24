@@ -4,7 +4,7 @@
 # Getting Access
 So you're a typewriter enthusiast and want to contribute to the wiki? Great! Here's what you do:
 
-1. Create a [login](/login). You can authenticate with Facebook or email to request a local wiki-only account.
+1. Create a [login](/login). You can authenticate with Facebook or Google, or email us to request a local wiki-only account.
 2. Email [info@typewriter.life](mailto:info@typewriter.life) to introduce yourself and request edit permission.
 
 That's it! We'll set up your access and message you back promptly.
