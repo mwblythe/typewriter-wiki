@@ -10,6 +10,12 @@ Until we distill the best advice into a winning page, please see the links below
 
 If the bell gives a muffled "plink" sound rather than a "ding", it may be due to the clapper staying in contact with the bell after the strike. This keeps the bell from resonating properly. You may be able to loosen the center screw of the bell and create some separation by shifting the bell slightly or rotating it. If that doesn't work, see if you can reform the clapper to be a bit further from the bell.
 
+## White Rust
+
+A powdery white substance sometimes found on metal parts. Remove with wire or stiff nylon brush + denatured alcohol.
+
+![White Rust](/uploads/white-rust.jpg "White Rust")
+
 # Links
 Other relevant pages from the web
 
