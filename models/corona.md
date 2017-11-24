@@ -6,10 +6,10 @@
 ### Manual Standards
 
 ### Manual Portables
-* [Corona 3](/corona/3)
-* [Corona 4](/corona/4)
-* [Clipper](/Corona/Clipper) (placeholder)
-* [Silent](/Corona/Silent) (placeholder)
-* [Standard](/Corona/Standard) (placeholder)
-* [Sterling](/Corona/Sterling) (placeholder)
-* //Please add more.
+* [Corona 3](/models/corona/3)
+* [Corona 4](/models/corona/4)
+* [Clipper](/models/corona/clipper) (placeholder)
+* [Silent](/models/corona/silent) (placeholder)
+* [Standard](/models/corona/standard) (placeholder)
+* [Sterling](/models/corona/sterling) (placeholder)
+* Please add more.
