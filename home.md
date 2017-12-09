@@ -24,7 +24,7 @@ This is not a comprehensive list. Feel free to add more.
 * [Corona/Smith-Corona](/models/Corona)
 * [Fox](/models/fox)
 * [Olympia](/models/olympia)
-* [Remington](/models/Remington)
+* [Remington](/models/Remington) (placeholder)
 * [Royal](/models/royal) (placeholder)
 * [Underwood](/models/underwood) (placeholder)
 
