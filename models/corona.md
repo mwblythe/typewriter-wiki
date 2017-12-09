@@ -4,7 +4,7 @@
 [Smith-Corona company history](/history/corona)
 # Models
 ### Manual Standards
-* [L.C. Smith](/models/L.C. Smith) (placeholder)
+* [LC Smith](/models/L.C. Smith) (placeholder)
 * [Smith Premier](/models/Smith Premier) (placeholder)
 
 ### Manual Portables
