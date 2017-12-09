@@ -4,6 +4,8 @@
 [Smith-Corona company history](/history/corona)
 # Models
 ### Manual Standards
+* [L.C. Smith](/models/L.C. Smith) (placeholder)
+* [Smith Premier](/models/Smith Premier) (placeholder)
 
 ### Manual Portables
 * [Corona 3](/models/corona/3)
@@ -13,3 +15,6 @@
 * [Standard](/models/corona/standard) (placeholder)
 * [Sterling](/models/corona/sterling) (placeholder)
 * Please add more.
+
+### Electric Portables
+* [Smith Corona Coronet 12](/models/Coronet 12) (placeholder)
