@@ -1,7 +1,7 @@
 <!-- TITLE: General -->
 <!-- SUBTITLE: Maintenance tips that apply to several Royal models -->
 
-# Backspace
+# Backspace Repair
 Royals from the '40s and perhaps a few decades before and after, often have backspace trouble. If you press the key, and the carriage moves but does not actually go back a space, try this fix. Tip the typewriter up on it's back. There is a silver metal lever that moves left to right when you press the backspace key. Using a screwdriver, place the tip under the lever as shown in this photo -- just to the left of the spring and black piece of metal.
 
 ![Royal Backspace](/uploads/royal/royal-backspace.jpg "Royal Backspace")
