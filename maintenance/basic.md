@@ -13,7 +13,7 @@ If the bell gives a muffled "plink" sound rather than a "ding", it may be due to
 ## Broken Drawband
 The drawband attaches to the mainspring and the end of the carriage. This is what moves the carriage as you type. If it's broken, not much is going to happen. This is a very common problem, and the level of difficulty varies from easy to frustrating, depending on the typewriter model. Look for model specific details on procedure.
 
-A variety of materials will work as a replaement drawband. The most common is probably fishing line, but you can also use shoe strings, [twine](http://www.clickclackding.com/blog/2016/11/12/tech-tip-whipping-twine-for-broken-carriage-drawstrings/), even metal bands.
+A variety of materials will work as a replacement drawband. The most common is probably fishing line, but you can also use shoe strings, [twine](http://www.clickclackding.com/blog/2016/11/12/tech-tip-whipping-twine-for-broken-carriage-drawstrings/), even metal bands.
 
 ## White Rust
 
