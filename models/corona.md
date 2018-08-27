@@ -17,4 +17,4 @@
 * Please add more.
 
 ### Electric Portables
-* [Smith Corona Coronet 12](/models/Coronet 12) (placeholder)
+* [Smith Corona Coronet 12](/models/Coronet12) (placeholder)
