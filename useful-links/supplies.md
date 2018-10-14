@@ -12,9 +12,10 @@
 * [Steve Dade](mailto:nailgnr@sbcglobal.net) Recovered platens, feed rollers, and new feet for select models
 * [TypewriterStuff](https://www.etsy.com/shop/TypewriterStuff) Replica feet for select models
 * [Rubber Feet Warehouse](https://www.rubberfeetwarehouse.com) Not specific to typewriters, but some can be made to work
-# Case Handles
+# Case Repair
 * [Brettun's Village](https://www.brettunsvillage.com/trunks/howto/parts/handles/)
 * [Hardware Elf](https://hardwareelf.com/catalog/luggage-repair/luggage-handles.aspx)
+* [Rockler](https://www.rockler.com)
 
 # Decals
 * [TypewriterDecalShop](https://www.etsy.com/shop/TypewriterDecalShop) High quality replica decals
