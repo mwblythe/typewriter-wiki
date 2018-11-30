@@ -4,7 +4,7 @@
 # Ribbons
 
 * [Baco Ribbon](mailto:bacoribbon@sbcglobal.net) wide selection including bulk ribbon, family owned, made in USA
-* [FJA Products Universal Ribbon](http://amzn.com/B009JGXAHG)
+* [FJA Products Universal Ribbon](http://amzn.com/B009JGXAHG) (via Amazon)
 * [LD Products Outlet](http://ebay.to/2zWOPzW) (fits Olympia and other European typewriters)
 
 # Rubber
