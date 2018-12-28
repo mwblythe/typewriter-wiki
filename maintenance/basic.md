@@ -24,5 +24,5 @@ A powdery white substance sometimes found on metal parts. Remove with wire or st
 # Links
 Other relevant pages from the web
 
-* [Basic Typewriter Restoration](http://site.xavier.edu/polt/typewriters/tw-restoration.html)
+* [Basic Typewriter Restoration](https://site.xavier.edu/polt/typewriters/tw-restoration.html)
 * [Degreaser Ratings](http://www.wastemin.com/discuss/index.php?threads/industrial-degreaser-performance-ratings-how-the-top-15-degreasers-stack-up.6)
