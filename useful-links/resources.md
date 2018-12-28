@@ -10,7 +10,7 @@
 * [Reddit](https://www.reddit.com/r/typewriters/)
 # Reference
 * [Typewriter Database](http://typewriterdatabase.com) Definitive serial number data, reference manuals, user submitted photo galleries
-* [The Classic Typewriter Page](http://site.xavier.edu/polt/typewriters/) A rich resource from Richard Polt, a leader in the revolution
+* [The Classic Typewriter Page](https://site.xavier.edu/polt/typewriters/) A rich resource from Richard Polt, a leader in the revolution
 * [3D Typewriter Parts](http://3dtypewriterparts.com) 3D models for printing/replicating typewriter parts
 
 # Blogs
