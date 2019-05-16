@@ -38,9 +38,7 @@ This is not a comprehensive list. Feel free to add more.
 * [Underwood](/models/underwood) (placeholder)
 
 # Shop
-Support *Typewriter Life* by visiting our
-[Amazon shop](https://www.amazon.com/stores/page/C7D299FE-C316-4D1E-BDC5-04390202B762).
-Great typewriter t-shirts with more merchandise to come.
+Support *Typewriter Life* by visiting our [Amazon shop](https://www.amazon.com/stores/page/C7D299FE-C316-4D1E-BDC5-04390202B762). Great typewriter t-shirts with more merchandise to come.
 # Useful Links
 * [Online Resources](/useful-links/resources)
 * [Supplies](/useful-links/supplies)
