@@ -10,23 +10,11 @@ Typewriters have been around for over a century and may seem obsolete in the com
 
 <div style="clear: right"></div>
 
-# History
-# Today
+# Information
 * [Buying a Typewriter](/today/buy)
 * [Online Communities](/today/community)
 * [Repair Shops](/today/shops)
 * [Type-Ins](/today/typein)
-
-# Models
-This is not a comprehensive list. Feel free to add more.
-*Please make a page for each manufacturer and list or link to models from there*
-
-* [Corona/Smith-Corona](/models/Corona)
-* [Fox](/models/fox)
-* [Olympia](/models/olympia)
-* [Remington](/models/Remington) (placeholder)
-* [Royal](/models/royal) (placeholder)
-* [Underwood](/models/underwood) (placeholder)
 
 # Maintenance
 * [Basic](/maintenance/basic) + [Tools](/maintenance/tools)
@@ -38,6 +26,21 @@ This is not a comprehensive list. Feel free to add more.
 * [Royal](/maintenance/royal)
 * [Triumph](/maintenance/triumph)
 * [Underwood](/maintenance/underwood)
+# Models
+This is not a comprehensive list. Feel free to add more.
+*Please make a page for each manufacturer and list or link to models from there*
+
+* [Corona/Smith-Corona](/models/Corona)
+* [Fox](/models/fox)
+* [Olympia](/models/olympia)
+* [Remington](/models/Remington) (placeholder)
+* [Royal](/models/royal) (placeholder)
+* [Underwood](/models/underwood) (placeholder)
+
+# Shop
+Support *Typewriter Life* by visiting our
+[Amazon shop](https://www.amazon.com/stores/page/C7D299FE-C316-4D1E-BDC5-04390202B762).
+Great typewriter t-shirts with more merchandise to come.
 # Useful Links
 * [Online Resources](/useful-links/resources)
 * [Supplies](/useful-links/supplies)
